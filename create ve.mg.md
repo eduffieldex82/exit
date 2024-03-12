@@ -6,7 +6,8 @@
 i2
 in 23i
  nn
- i23 in
+ i23 in![images-14](https://github.com/eduffieldex82/exit/assets/163085704/5e6e3449-44be-4512-8913-89b4bc008813)
+
 
 i2 n3 i
 n23
